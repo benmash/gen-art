@@ -12,3 +12,6 @@ out
 *.pdf
 *.svg
 *.dxf
+*.mov
+*.mov.tmp
+*.tif

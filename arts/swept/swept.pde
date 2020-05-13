@@ -46,6 +46,7 @@ void draw() {
     g.point(p[i].x, p[i].y);
   }
   g.endDraw();
+ 
 
   if (frameCount%100==0)
     image(g, 0, 0, width, height);
